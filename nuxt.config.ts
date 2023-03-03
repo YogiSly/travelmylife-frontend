@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Nuxt 3 starter',
+      title: 'Travel My Life',
       link: [
         {
           rel: 'icon',
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   ],
   css: [
     '~/assets/styles/css/tailwind.css',
-    '~/assets/styles/scss/main.scss',
+    '~/assets/styles/css/main.css',
   ],
   postcss: {
     plugins: {
