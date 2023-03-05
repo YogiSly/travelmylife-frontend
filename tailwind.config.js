@@ -12,7 +12,9 @@ module.exports = {
         colors: {
           bgtransparent: 'rgba(61, 61, 61, .4);',
           border: '#CCCCCC',
-          btnblue: '#0057d9'
+          btnblue: '#0057d9',
+          bordergray: '#f6f6f6',
+          hovergray: '#f0f6f5'
         },
       }
     },
