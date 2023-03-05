@@ -18,5 +18,17 @@ body {
   position: relative;
 
 }
+.navbar__submenu:before {
+  content: "";
+  top: -16px;
+  margin-left: -8px;
+  width: 0;
+  height: 0;
+  border: 8px solid transparent;
+  border-bottom-color: #fff;
+  position: absolute;
+  left: 50%;
+  display: block;
+}
 
 
