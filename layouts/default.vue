@@ -1,8 +1,8 @@
 <template>
   <Body>
     <Header />
-  <main>
-    <slot />
-  </main>
+    <main>
+      <slot />
+    </main>
   </Body>
 </template>

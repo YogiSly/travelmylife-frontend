@@ -3,6 +3,8 @@
 .output
 .env
 .yarn/*
+.yarn
+.storybook
 !.yarn/releases
 !.yarn/plugins
 nuxt.d.ts
